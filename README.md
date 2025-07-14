@@ -1,4 +1,17 @@
-# Education
+# Welcome to My Technical Portfolio
+
+**Jefferson Kim** | IT Graduate
+
+This repository serves as a comprehensive showcase of my technical proficiency and practical application of skills developed throughout my academic journey in Information Technology. Here, you will find a curated collection of projects and coursework that highlights my capabilities in:
+
+* **Software Development**: Demonstrating robust programming, algorithmic design, and object-oriented principles.
+* **Web Technologies**: Proficiency in both front-end and back-end development.
+* **Cybersecurity Fundamentals**: Practical implementations of reconnaissance and analysis tools.
+
+I invite you to explore the diverse range of work presented here, reflecting my commitment to problem-solving, clean code, and effective technical solutions.
+___
+
+## Education
 
 B.S. in Information Technology (Concentration in Cybersecurity) - George Mason University, Class of 2024
 

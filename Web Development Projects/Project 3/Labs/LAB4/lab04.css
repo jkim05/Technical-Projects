@@ -1,0 +1,104 @@
+/*
+Jefferson Kim
+IT-207-DL1
+Lab Activity 04.css
+*/
+
+body {
+	background-color: #4b0082;
+}
+
+h1 {
+	color: white;
+}
+
+.main {
+	color: white;
+	font-family: arial;
+	font-size: 35px;
+	text-align: center;
+}
+
+.head {
+	text-align: left;
+	color: white;
+	font-family: arial;
+	font-size: 45px;
+	padding-left: 10px;
+}
+
+.title {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.body {
+	text-align: left;
+	color: white;
+	font-family: arial;
+	font-size: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.bottom {
+	padding-left: 15px;
+	background-color: #4b0082;
+	color: white;
+	font-family: arial;
+	margin-bottom: 10px;
+}
+
+.inputs {
+	padding-left: 5px;
+	color: white;
+	font-family: arial;
+}
+
+#id_comment
+{ 
+	height: 150px;
+	width: 600px;
+	font-size: 12pt;
+}
+
+#content {
+	background-color: #4b0082;
+	font-family: arial;
+	color: white;
+	display: flex;
+}
+
+.bottom a:link {
+	color: white;
+}
+
+.bottom a:visited {
+	color: hotpink;
+}
+
+.form {
+	position: absolute;
+	color: white;
+	bottom: 0;
+}
+
+.form a:link {
+	color: white;
+}
+
+.form  a:visited {
+	color: hotpink;
+}
+
+label {
+	color: white;
+}
+
+.comment {
+	color: white;
+}
+
+span .comment {
+	color: white;
+}

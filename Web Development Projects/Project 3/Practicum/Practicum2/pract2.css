@@ -1,0 +1,71 @@
+/*
+Jefferson Kim
+Professor Uyar
+IT-207-B01
+Practicum 2 CSS
+*/
+
+
+h3 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 60px;
+	width: 100%;
+	font-family: sans-serif;
+}
+
+h4 {
+	text-align: left;
+	font-weight: bold;
+	font-size: 50px;
+	font-family: sans-serif;
+}
+
+.heading {
+	background-color:#B0C4DE;
+	font-family: sans-serif;
+	display: flex;
+	text-align: center;
+	font-weight: bold;
+	font-size: 60px;
+	width: 100%;
+	color: white;
+}
+
+.heading h3 {
+	text-align: center;
+}
+
+#pract2Form {
+	background-color:#778899;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+#header {
+	text-align: center;
+	padding: 6px;
+	font-family: sans-serif;
+}
+
+.green {
+	color: green;
+	text-align: center;
+}
+
+.yellow {
+	color: yellow;
+	text-align: center;
+}
+
+.red {
+	color: red;
+	text-align: center;
+}
+
+.black {
+	color: black;
+	text-align: center;
+}
+
+

@@ -1,0 +1,15 @@
+/*Lab Assignment 1*/
+#lab1form {
+	background-color: #ececec;
+	position: float;
+	top: 70px;
+	left: 140px;
+	bottom: 40px;
+	right: 0;
+	overflow-y: auto;
+	padding: 10px;
+}
+
+p {
+	padding: 10px;
+}

@@ -1,0 +1,75 @@
+/*
+Jefferson Kim
+IT-207-DL1
+Lab Activity 03.css
+*/
+
+
+inputs {
+	margin-left: 20px;
+}
+
+.heading {
+	margin: 0;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+.subheading {
+	margin: 0;
+	font-weight: bold;
+	font-size: 28px;
+}
+
+.lab3-link {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+
+form label {
+	margin-left: 10px;
+}
+
+.bottom {
+	margin-left: 20px;
+	margin-bottom: 20px;
+	
+}
+
+#search {
+	background-color: #C9FFC7;
+	font-family: sans-serif;
+}
+
+
+.search-container {
+	background-color: #C9FFC7;
+	display: flex;
+	margin: auto;
+}
+	
+.message p {
+	font-size: 26px;
+}
+
+#add {
+	background-color: #C9FFC7;
+	font-family: sans-serif;
+}
+
+.add-container {
+	background-color: #C9FFC7;
+	display: flex;
+}
+
+#update {
+	background-color: #C9FFC7;
+	font-family: sans-serif;
+	margin-top: 20px;
+}
+
+.update-container {
+	background-color: #C9FFC7;
+	display: flex;
+}

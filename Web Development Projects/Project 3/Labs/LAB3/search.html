@@ -1,0 +1,36 @@
+<!--
+Jefferson Kim
+Professor Uyar
+IT-207-B01
+Lab activity 03 search.html
+-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+		"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head> 
+		<meta http-equiv="Content-type" content="text/html" charset="UTF-8" />
+		<title>Lab Activity 03</title>
+		<link rel="stylesheet" href="lab03.css" type="text/css" />
+	</head>
+	<body>
+	<div class ="search-container">
+		<div id="search">
+				<div class="heading"><h3>Online Contacts Directory</h3></div>
+				<div class="subheading"><h4>Search for a Contact</h4></div>
+					<form method="POST" action="/~jkim316/IT207/LAB3/directory2.php">
+					<div class="inputs">
+							<label for="id_first">First Name: </label><input id="id_first" type="text" name="first" /><br/>
+							<br/>
+							<label for="id_last">Last Name: </label><input id="id_last" type="text" name="last" /><br/>
+							<br/>
+							<div class="bottom"><input type="submit" value="Search"></div>
+						</form>
+				</div>
+			<hr>
+	 <div class = "lab3-link"><a href="/~jkim316/IT207/LAB3/addContacts.php">Add New Contact Entry</a></div>
+	 </div>
+	 </div>
+	</body>
+</html>

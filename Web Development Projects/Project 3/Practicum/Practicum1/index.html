@@ -1,0 +1,46 @@
+<!--
+Jefferson Kim
+IT-207-B01
+Lab Practicum 1 
+index.html form
+-->
+
+<!DOCTYPE html>
+<html>
+	<head> 
+		<meta http-equiv="Content-Type" content="text/html"; charset-utf-8"/>
+		<title> Lab Practicum 1 METS Calculator</title>
+		<link rel="stylesheet" href="pract1.css" type="text/css"/>
+	</head>
+	<body>
+		<div id="prac1Form">
+				<div class="heading">
+					<h3><center>Metabolic Equivalents Energy Expender</center></h3>
+				</div>
+					<div class="form">
+					<form method="POST" action="practica1-2.php">
+							Weight: <input type="number" name="weight" /> pounds
+							<br>
+							<br>
+							Running (at 6mph): <input type="number" name="running"> minutes
+							<br>
+							<br>
+							Basketball<br>Duration: <input type="number" name="bball"> minutes
+							<br>
+							<br>
+							Sleep<br>Duration: <input type="number" name="sleep"> hours
+							<br>
+							<div class="bottom"><input type="submit" value="Calculate"></div>
+						</form>
+					</div>
+			 <div class="link">
+			 <a href="/~jkim316/IT207/LABP1/coupon.php"> Part 2 of Practicum 1</a>
+			 </div>
+		<?php
+			 echo '<div class="mod">';
+			 echo "| Last Modified: " . date ("H:i F d, Y T |", getlastmod());
+			 echo '</div>';
+		?>
+		</div>	
+	</body>
+</html>

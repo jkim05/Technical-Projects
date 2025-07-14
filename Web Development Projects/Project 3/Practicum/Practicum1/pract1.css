@@ -1,0 +1,58 @@
+/*
+Jefferson Kim
+IT-207-B01
+Lab Practicum 1 
+CSS
+*/
+
+h3 {
+	padding-left: 10px;
+}
+
+body {
+	margin: 0;
+}
+
+#prac1Form {
+	background-color: #59788E;
+	margin-top: 0;
+	display: flex;
+}
+
+.form {
+	text-align: left;
+	font-size: 1.10em;
+	padding-left: 10px;
+}
+
+.output {
+	padding-left: 10px;
+}
+
+.heading {
+	background-color: lightgrey;
+}
+
+.mod {
+	background-color: lightgrey;
+	text-align: right;
+}
+
+.mod2 {
+	background-color: #59788E;
+	text-align: center;
+}
+
+.link {
+	font-size: 1em;
+	text-align: left;
+	padding-left: 10px;
+}
+
+.bottom {
+	text-align: right;
+}
+
+.return-link {
+	background-color: #59788E;
+}

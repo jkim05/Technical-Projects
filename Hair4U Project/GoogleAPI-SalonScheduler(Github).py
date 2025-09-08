@@ -2,6 +2,9 @@
 #Google API - Hair4U Salon Scheduler
 #May 2024 - July 2025
 
+#Note: Explore the source code and architecture of this project. The repository has been sanitized to exclude any sensitive data and a live demo will be available soon.
+
+
 import gspread
 from google.oauth2.service_account import Credentials
 import datetime
@@ -102,4 +105,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()

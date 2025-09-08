@@ -1,6 +1,6 @@
 #Jefferson Kim
 #Google API - Hair4U Salon Scheduler
-#May 2024
+#May 2024 - July 2025
 
 import gspread
 from google.oauth2.service_account import Credentials

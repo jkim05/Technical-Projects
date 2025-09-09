@@ -55,36 +55,6 @@ ___
 ## **Project Details**
 
 
-### *Wolf Trap Foundation Project:*
-
-
-AI Chatbot & Data Analytics Project (for Wolf Trap Foundation)
-
-This capstone project involved leading a senior project team to develop and implement a scalable, conversational AI chatbot using Microsoft Azure services. The project also included a data analytics component to provide actionable insights from historical business data, showcasing end-to-end development and client management.
-
-Key Functions & Goals:
-- Conversational AI Development: Leveraged Azure's Platform as a Service (PaaS) offerings and key services to engineer a resilient, conversational AI solution that provides automated support.
-
-Data Analytics & Business Intelligence: 
-- Engineered and delivered interactive Power BI dashboards from geographic ticket sales data to inform future marketing campaigns and drive data-driven decision-making.
-
-Project & Client Management: 
-- Managed the project from end to end, coordinating team efforts and providing remote technical training to a key stakeholder to ensure the successful delivery and adoption of the solution.
-
-Technologies Used:
-- Microsoft Azure PaaS: Core cloud platform for hosting and scaling the conversational AI solution.
-
-- Azure AI Bot Service: Main service for building, connecting, and managing the chatbot.
-
-- Azure AI Language (LUIS): Utilized for Natural Language Processing (NLP) to enable the chatbot to understand and respond to user queries.
-
-- Azure Cognitive Services: Provided pre-built AI capabilities for intelligent features.
-
-- Power BI: Used to create interactive dashboards and data visualizations for business intelligence.
-
-**Live Demo Available**
-
----
 ### *Core Software Development:*
 
 
@@ -117,8 +87,8 @@ Packet Analysis:
 Vulnerability Scanning:
 - Creating port scanners for identifying open network services and potential entry points.
 
-*Live demo coming soon*
 
+*Live demo coming soon*
 ---
 ### *Featured Web Development Project:*
 
@@ -173,30 +143,39 @@ Technologies Used:
 
 - Command Line Interface (CLI): For user interaction with the automation script.
 
+
 *Live demo coming soon*
 
 ---
-
-### *Cybersecurity & Network Analysis*
-
-
-This section presents foundational cybersecurity tools developed to explore network behavior and reconnaissance techniques. These utilities highlight my understanding of:
-
-IP Reconnaissance:
-- Crafting utilities for IP address information retrieval and basic Open-Source Intelligence (OSINT).
-
-Network Intelligence:
-- Implementing DNS lookup functionalities for domain resolution and information gathering.
-
-Packet Analysis:
-- Developing tools for passive network monitoring and traffic inspection.
-
-Vulnerability Scanning:
-- Creating port scanners for identifying open network services and potential entry points.
-
-*Live demo coming soon*
+### *Wolf Trap Foundation Project:*
 
 
+AI Chatbot & Data Analytics Project (for Wolf Trap Foundation)
+
+This capstone project involved leading a senior project team to develop and implement a scalable, conversational AI chatbot using Microsoft Azure services. The project also included a data analytics component to provide actionable insights from historical business data, showcasing end-to-end development and client management.
+
+Key Functions & Goals:
+- Conversational AI Development: Leveraged Azure's Platform as a Service (PaaS) offerings and key services to engineer a resilient, conversational AI solution that provides automated support.
+
+Data Analytics & Business Intelligence: 
+- Engineered and delivered interactive Power BI dashboards from geographic ticket sales data to inform future marketing campaigns and drive data-driven decision-making.
+
+Project & Client Management: 
+- Managed the project from end to end, coordinating team efforts and providing remote technical training to a key stakeholder to ensure the successful delivery and adoption of the solution.
+
+Technologies Used:
+- Microsoft Azure PaaS: Core cloud platform for hosting and scaling the conversational AI solution.
+
+- Azure AI Bot Service: Main service for building, connecting, and managing the chatbot.
+
+- Azure AI Language (LUIS): Utilized for Natural Language Processing (NLP) to enable the chatbot to understand and respond to user queries.
+
+- Azure Cognitive Services: Provided pre-built AI capabilities for intelligent features.
+
+- Power BI: Used to create interactive dashboards and data visualizations for business intelligence.
+
+
+**Live Demo Available**
 ____
 ___
 

@@ -31,7 +31,6 @@ This section highlights projects and assignments completed throughout my Informa
 
 Within the directories of this repository, you will find files structured by course, representing specific assignments and demonstrations of learned skills.
 
-*Live Demos: https://www.youtube.com/watch?v=OWL-F5t1Rsw&list=PLd8jMYNeBbx5HIZE_NmubFLH5WwjNxEVs* 
 ___
 ____
 
@@ -170,6 +169,8 @@ Technologies Used:
 - Azure Cognitive Services: Provided pre-built AI capabilities for intelligent features.
 
 - Power BI: Used to create interactive dashboards and data visualizations for business intelligence.
+
+*Live Demo: https://www.youtube.com/watch?v=OWL-F5t1Rsw&list=PLd8jMYNeBbx5HIZE_NmubFLH5WwjNxEVs* 
 
 Training Manual: https://docs.google.com/document/d/1Wfimu8oLB1WwZBgcYiRRAvm8J7oLP5mCDw08ofCJwtM/edit?tab=t.0
 

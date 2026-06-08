@@ -2,7 +2,7 @@
 #Google API - Hair4U Salon Scheduler
 #May 2024 - July 2025
 
-#Note: Explore the source code and architecture of this project. The repository has been sanitized to exclude any sensitive data and a live demo will be available soon.
+#Note: Explore the source code and architecture of this project. The repository has been sanitized to exclude any sensitive data.
 
 
 import gspread

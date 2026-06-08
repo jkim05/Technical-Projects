@@ -146,7 +146,7 @@ Technologies Used:
 ### *Wolf Trap Foundation Project:*
 
 
-AI Chatbot & Data Analytics Project (for Wolf Trap Foundation)
+AI Chatbot & Data Analytics Project
 
 This capstone project involved leading a senior project team to develop and implement a scalable, conversational AI chatbot using Microsoft Azure services. The project also included a data analytics component to provide actionable insights from historical business data, showcasing end-to-end development and client management.
 

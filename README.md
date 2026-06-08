@@ -2,7 +2,7 @@
 
 **Jefferson Kim**
 
-This repository serves as a comprehensive showcase of my technical proficiency and practical application of skills developed throughout my academic journey in Information Technology. Here, you will find a curated collection of projects and coursework that highlights my capabilities in:
+This repository serves as a comprehensive showcase of my technical proficiency and practical application of skills developed throughout my academic journey and professioanl experience. Here, you will find a curated collection of projects and coursework that highlights my capabilities in:
 
 **Software Development:**
 - Demonstrating robust programming, algorithmic design, and object-oriented principles.

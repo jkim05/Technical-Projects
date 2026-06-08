@@ -7,7 +7,7 @@ This repository serves as a comprehensive showcase of my technical proficiency a
 **Software Development:**
 - Demonstrating robust programming, algorithmic design, and object-oriented principles.
   
-**Web Technologies:**
+**Web Development:**
 - Proficiency in both front-end and back-end development.
   
 **Cybersecurity Fundamentals:**

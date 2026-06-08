@@ -21,9 +21,9 @@ ___
 
 ## Education
 
-Bachelor of Science in Information Technology with a Concentration in Cybersecurity - George Mason University, Class of 2024
+B.S. in Information Technology with a Concentration in Cybersecurity - George Mason University, Class of 2024
 
-Associate of Science in Information Technology - Northern Virginia Community College, Class of 2020
+A.S. in Information Technology - Northern Virginia Community College, Class of 2020
 ___
 ## IT Coursework & Demonstrations
 

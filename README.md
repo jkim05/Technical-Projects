@@ -21,13 +21,9 @@ ___
 
 ## Education
 
-Bachelor of Science in Information Technology with a Concentration in Cybersecurity - George Mason University, Class of 2024 |  GPA: 3.39
+Bachelor of Science in Information Technology with a Concentration in Cybersecurity - George Mason University, Class of 2024
 
 Associate of Science in Information Technology - Northern Virginia Community College, Class of 2020
-____
-## My Technical Portfolio
-
-This repository serves as a comprehensive portfolio showcasing a range of technical projects and coursework, demonstrating my skills in software development, web development, and various programming languages.
 ___
 ## IT Coursework & Demonstrations
 
@@ -88,7 +84,7 @@ Vulnerability Scanning:
 - Creating port scanners for identifying open network services and potential entry points.
 
 
-*Live demo coming soon*
+
 
 ---
 ### *Featured Web Development Project:*
@@ -108,7 +104,7 @@ Key Features & Goals:
 Technologies Used:
 - Adobe Dreamweaver, Adobe Illustrator, Adobe Photoshop
 
-*Live demo coming soon*
+
 
 ---
 ### *Hair4U Data Migration and Systems Implementation Project:*
@@ -145,7 +141,7 @@ Technologies Used:
 - Command Line Interface (CLI): For user interaction with the automation script.
 
 
-*Live demo coming soon*
+
 
 ---
 ### *Wolf Trap Foundation Project:*
@@ -176,7 +172,7 @@ Technologies Used:
 - Power BI: Used to create interactive dashboards and data visualizations for business intelligence.
 
 
-**Live Demo Available**
+
 ____
 ___
 

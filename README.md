@@ -171,6 +171,8 @@ Technologies Used:
 
 - Power BI: Used to create interactive dashboards and data visualizations for business intelligence.
 
+Supporting Documents:
+Training Manual: https://docs.google.com/document/d/1Wfimu8oLB1WwZBgcYiRRAvm8J7oLP5mCDw08ofCJwtM/edit?tab=t.0
 
 
 ____

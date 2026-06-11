@@ -23,7 +23,6 @@ ___
 
 B.S. in Information Technology with a Concentration in Cybersecurity - George Mason University
 
-A.S. in Information Technology - Northern Virginia Community College
 ___
 ## IT Coursework & Demonstrations
 

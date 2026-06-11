@@ -16,7 +16,6 @@ This repository serves as a comprehensive showcase of my technical proficiency a
 **Microsoft Azure AI (PaaS) and Microsoft PowerBI:**
 - Engineered and deployed a conversational AI chatbot and a business intelligence solution on Microsoft Azure to provide automated support and derive actionable insights from historical business data.
 
-I invite you to explore the diverse range of work presented here, reflecting my commitment to problem-solving and effective technical solutions.
 ___
 
 ## Education

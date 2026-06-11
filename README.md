@@ -178,6 +178,5 @@ Training Manual: https://docs.google.com/document/d/1Wfimu8oLB1WwZBgcYiRRAvm8J7o
 ____
 ___
 
-I am continuously expanding this portfolio with new projects and updated demonstrations of my evolving technical skills.
 
 Note: Due to the nature of some coursework (e.g., software requirements for Dreamweaver projects), direct execution or live demos may vary. Files are provided to showcase the structure, code, and design assets.

@@ -1,6 +1,6 @@
 # Welcome to My Technical Portfolio
 
-**Jefferson Kim**
+
 
 This repository serves as a comprehensive showcase of my technical proficiency and practical application of skills developed throughout my academic journey and professioanl experience. Here, you will find a curated collection of projects and coursework that highlights my capabilities in:
 
